@@ -1,6 +1,7 @@
 # 🎮 Data Science Quest Log: Leveling Up with Analytics & AI
 
 > “The right data at the right time is more powerful than any Keyblade.” – Unknown Data Sage
+![KH]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FscTh3MzAwbGJwejloaW94N3AwN2p6dGVsMGdpNXZ3ZGo1anZxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlZNzwl4x8DFQPsFuZ/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjgzMGtoZGpwcmNvaTJwbnc4bGxwcGM4d294YTZuN29venduMXlibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uzpjgAYcspoLqcXUlT/giphy.gif))
 
 Welcome, Traveler! You've discovered the **Data Science Quest Log** of a modern-day Analyst Mage, trained in the arts of **epidemiology**, **machine learning**, and **data visualization**. Join the adventure through realms of public health, AI innovation, and community impact, as I wield Python, SQL, and other mystical tools to solve real-world quests.
 
