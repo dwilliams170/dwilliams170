@@ -28,12 +28,6 @@ Welcome, Traveler! You've discovered the **Data Science Quest Log** of a modern-
 
 ## 📚 Side Quests (Projects)
 
-### 🏫 **SA Youth Comparative Analysis**
-*Mission:* Compare SAYouth Nonprofit outcomes vs Texas Public Schools  
-*Outcome:* Informed stakeholders on key education disparities.
-
----
-
 ### 📈 **Market ADHOC Report**
 *Mission:* Generate ad-hoc performance insights using SQL & Python   
 *Outcome:* Created market insights dashboard to enhance strategic decisions.
@@ -69,6 +63,10 @@ Welcome, Traveler! You've discovered the **Data Science Quest Log** of a modern-
 
 **🎓 Data Science Fellowship** – The Knowledge House  
 Embarking on an innovation-focused journey, mastering new tools, solving applied problems, and leveling up community impact through data.
+
+### 🏫 **SA Youth Comparative Analysis**
+*Mission:* Compare SAYouth Nonprofit outcomes vs Texas Public Schools  
+*Outcome:* Informed stakeholders on key education disparities.
 
 ---
 
