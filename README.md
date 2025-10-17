@@ -2,7 +2,7 @@
 
 > “The right data at the right time is more powerful than any Keyblade.” – Unknown Data Sage
 
-![KH](https://tenor.com/view/kingdom-hearts-sora-keyblade-8bit-gif-5015324)
+<div class="tenor-gif-embed" data-postid="5015324" data-share-method="host" data-aspect-ratio="1.41243" data-width="100%"><a href="https://tenor.com/view/kingdom-hearts-sora-keyblade-8bit-gif-5015324">Kingdom Hearts Sora GIF</a>from <a href="https://tenor.com/search/kingdom+hearts-gifs">Kingdom Hearts GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 Welcome, Traveler! You've discovered the **Data Science Quest Log** of a modern-day Analyst Mage, trained in the arts of **epidemiology**, **machine learning**, and **data visualization**. Join the adventure through realms of public health, AI innovation, and community impact, as I wield Python, SQL, and other mystical tools to solve real-world quests.
