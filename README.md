@@ -1,7 +1,8 @@
 # 🎮 Data Science Quest Log: Leveling Up with Analytics & AI
 
 > “The right data at the right time is more powerful than any Keyblade.” – Unknown Data Sage
-![KH]((https://tenor.com/view/kingdom-hearts-sora-keyblade-8bit-gif-5015324))
+
+![KH](https://tenor.com/view/kingdom-hearts-sora-keyblade-8bit-gif-5015324)
 
 
 Welcome, Traveler! You've discovered the **Data Science Quest Log** of a modern-day Analyst Mage, trained in the arts of **epidemiology**, **machine learning**, and **data visualization**. Join the adventure through realms of public health, AI innovation, and community impact, as I wield Python, SQL, and other mystical tools to solve real-world quests.
