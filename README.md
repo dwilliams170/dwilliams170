@@ -1,4 +1,4 @@
-# 🎮 Data Science Quest Log: Leveling Up with Analytics & AI
+# Data Science Quest Log: Leveling Up with Analytics & AI
 
 > “The right data at the right time is more powerful than any Keyblade.” – Unknown Data Sage
 
@@ -9,89 +9,82 @@ Welcome, Traveler! You've discovered the **Data Science Quest Log** of a modern-
 
 ---
 
-## 🧙‍♂️ Player Profile
+## Player Profile
 
-**🪪 Darylisha Williams: *Data Sorcerer & Analyst Adventurer*  
-**🎓 Education:**  
+**Darylisha Williams: *Data Sorcerer & Analyst Adventurer*  
+**Education:**  
 - Master of Public Health (MPH), Epidemiology  
 - Data Science Innovation Fellowship, The Knowledge House  
 
-**🏛️ Guild Affiliations:**  
+**Guild Affiliations:**  
 - Georgia Department of Public Health (GDHP)  
 - Department of Defense (DoD)  
 
-**🔮 Skills & Spells Unlocked:**  
-- ⚔️ Python, SQL, Pandas  
-- 🧠 Machine Learning: scikit-learn, sentiment analysis, fraud modeling  
-- 🛡️ Data Visualization: Tableau, Power BI, SAS  
-- 📊 Data Wrangling & Analytics  
-- 🧭 AI Assistants & LLM Integration (Streamlit, NLP)
+**Skills & Spells Unlocked:**  
+-  Python, SQL, Pandas  
+- Machine Learning: scikit-learn, sentiment analysis, fraud modeling  
+- Data Visualization: Tableau, Power BI, SAS  
+- Data Wrangling & Analytics  
+- AI Assistants & LLM Integration (Streamlit, NLP)
 
 ---
 
-## 📚 Side Quests (Projects)
+## Side Quests (Projects)
 
-### 📈 **Market ADHOC Report**
+### **Market ADHOC Report**
 *Mission:* Generate ad-hoc performance insights using SQL & Python   
 *Outcome:* Created market insights dashboard to enhance strategic decisions.
 
 ---
 
-### 🤝 **Community Volunteer App**
+### **Community Volunteer App**
 *Mission:* Connect court-mandated volunteers with local nonprofits  
 
 *Outcome:* Developed a data-driven matchmaking app for justice-involved individuals.
 
 ---
 
-### 🤖 **AI Lecture Navigator**
+### **AI Lecture Navigator**
 *Mission:* Build an LLM-powered assistant to query lecture slides   
 *Outcome:* Lightweight app that returns accurate, cited answers to user queries.
 
 ---
 
-### 🕵️ **Fraud Detection Analysis**
+### **Fraud Detection Analysis**
 *Mission:* Predict fraudulent activity from historical data   
 *Outcome:* Built a pipeline achieving non-zero precision, recall, and sensitivity.
 
 ---
 
-### 💘 **Lovoo Dating Profile Analysis**
+### **Lovoo Dating Profile Analysis**
 *Mission:* Analyze user behavior & intent on a dating platform  
 *Outcome:* Delivered insights into profile engagement patterns and dating trends.
 
 ---
 
-## 🗺️ Current Campaign
+## Current Campaign
 
-**🎓 Data Science Fellowship** – The Knowledge House  
+** Data Science Fellowship** – The Knowledge House  
 Embarking on an innovation-focused journey, mastering new tools, solving applied problems, and leveling up community impact through data.
 
-### 🏫 **SA Youth Comparative Analysis**
+###  **SA Youth Comparative Analysis**
 *Mission:* Compare SAYouth Nonprofit outcomes vs Texas Public Schools  
 *Outcome:* Informed stakeholders on key education disparities.
 
 ---
 
-## 🧰 Inventory (Tech Stack)
+## Tech Stack
 
-| Skill | Proficiency |
-|-------|-------------|
-| 🐍 Python | ★★★★★ |
-| 🗄️ SQL | ★★★★★ |
-| 📊 Tableau | ★★★★☆ |
-| 📈 Power BI | ★★★★☆ |
-| 🧠 Machine Learning (scikit-learn) | ★★★★☆ |
-| 📚 SAS | ★★★☆☆ |
-| 🗺️ Streamlit | ★★★★☆ |
+| Skill 
+|-------
+| Python
+| SQL
+| Tableau
+| Power BI
+| Machine Learning (scikit-learn)
+| SAS
+| Streamlit 
 
----
-
-## 🎯 Final Boss Goals
-
-- 🏆 Lead a data science team focused on social good  
-- 🧬 Apply AI to public health and community development  
-- 🛠️ Create tools that empower underserved populations  
 
 ---
 
