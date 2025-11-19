@@ -11,7 +11,7 @@ Welcome, Traveler! You've discovered the **Data Science Quest Log** of a modern-
 
 ## Player Profile
 
-**Darylisha Williams: *Data Sorcerer & Analyst Adventurer*  
+Darylisha Williams: *Data Sorcerer & Analyst Adventurer*  
 **Education:**  
 - Master of Public Health (MPH), Epidemiology  
 - Data Science Innovation Fellowship, The Knowledge House  
