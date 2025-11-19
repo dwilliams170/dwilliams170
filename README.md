@@ -64,7 +64,7 @@ Darylisha Williams: *Data Sorcerer & Analyst Adventurer*
 
 ## Current Campaign
 
-** Data Science Fellowship** – The Knowledge House  
+**Data Science Fellowship** – The Knowledge House  
 Embarking on an innovation-focused journey, mastering new tools, solving applied problems, and leveling up community impact through data.
 
 ###  **SA Youth Comparative Analysis**
