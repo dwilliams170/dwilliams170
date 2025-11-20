@@ -12,17 +12,12 @@ Darylisha(Daryl-e-sha) Williams: *Data Science Fellow*
 - Master of Public Health (MPH), Epidemiology  
 - Data Science Innovation Fellowship, The Knowledge House  
 
-**Guild Affiliations:**  
-- Georgia Department of Public Health (GDHP)  
- 
-
 **Skills & Spells Unlocked:**  
 - Python, SQL, Pandas  
 - Machine Learning: scikit-learn, sentiment analysis, fraud modeling  
 - Data Visualization: Tableau, Power BI, SAS  
 - Data Wrangling & Analytics  
 - AI Assistants & LLM Integration (Streamlit, NLP)
-
 ---
 
 ## Side Quests (Projects)
