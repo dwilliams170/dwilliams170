@@ -1,27 +1,23 @@
 # Data Science Quest Log: Leveling Up with Analytics & AI
 
-> “The right data at the right time is more powerful than any Keyblade.” – Unknown Data Sage
-
-![KH](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRqY2RudjR6cnZwdHZ2d212MW9lb29jdndjbWZidmJieGFkMTh2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2snL26Wsqbiec/giphy.gif)
-
-
-Welcome, Traveler! You've discovered the **Data Science Quest Log** of a modern-day Analyst Mage, trained in the arts of **epidemiology**, **machine learning**, and **data visualization**. Join the adventure through realms of public health, AI innovation, and community impact, as I wield Python, SQL, and other mystical tools to solve real-world quests.
+Welcome, Traveler! You've discovered the **Data Science Quest Log** of a data science apprentice exploring the arts of **epidemiology**, **machine learning**, and **data visualization**. Join the adventure through realms of public health, AI innovation, and community impact, as I wield Python, SQL, and other mystical tools to solve real-world quests.
 
 ---
 
 ## Player Profile
 
-Darylisha Williams: *Data Sorcerer & Analyst Adventurer*  
+Darylisha(Daryl-e-sha) Williams: *Data Science Fellow*
+
 **Education:**  
 - Master of Public Health (MPH), Epidemiology  
 - Data Science Innovation Fellowship, The Knowledge House  
 
 **Guild Affiliations:**  
 - Georgia Department of Public Health (GDHP)  
-- Department of Defense (DoD)  
+ 
 
 **Skills & Spells Unlocked:**  
--  Python, SQL, Pandas  
+- Python, SQL, Pandas  
 - Machine Learning: scikit-learn, sentiment analysis, fraud modeling  
 - Data Visualization: Tableau, Power BI, SAS  
 - Data Wrangling & Analytics  
@@ -31,15 +27,8 @@ Darylisha Williams: *Data Sorcerer & Analyst Adventurer*
 
 ## Side Quests (Projects)
 
-### **Market ADHOC Report**
-*Mission:* Generate ad-hoc performance insights using SQL & Python   
-*Outcome:* Created market insights dashboard to enhance strategic decisions.
-
----
-
 ### **Community Volunteer App**
-*Mission:* Connect court-mandated volunteers with local nonprofits  
-
+*Mission:* Connect court-mandated volunteers with local nonprofits. 
 *Outcome:* Developed a data-driven matchmaking app for justice-involved individuals.
 
 ---
@@ -49,13 +38,6 @@ Darylisha Williams: *Data Sorcerer & Analyst Adventurer*
 *Outcome:* Lightweight app that returns accurate, cited answers to user queries.
 
 ---
-
-### **Fraud Detection Analysis**
-*Mission:* Predict fraudulent activity from historical data   
-*Outcome:* Built a pipeline achieving non-zero precision, recall, and sensitivity.
-
----
-
 ### **Lovoo Dating Profile Analysis**
 *Mission:* Analyze user behavior & intent on a dating platform  
 *Outcome:* Delivered insights into profile engagement patterns and dating trends.
@@ -64,12 +46,12 @@ Darylisha Williams: *Data Sorcerer & Analyst Adventurer*
 
 ## Current Campaign
 
-**Data Science Fellowship** – The Knowledge House  
+**Data Science Fellowship** – The Knowledge House (Dec 2025) 
 Embarking on an innovation-focused journey, mastering new tools, solving applied problems, and leveling up community impact through data.
 
-###  **SA Youth Comparative Analysis**
-*Mission:* Compare SAYouth Nonprofit outcomes vs Texas Public Schools  
-*Outcome:* Informed stakeholders on key education disparities.
+###  **Non Profit Comparative Analysis**
+*Mission:* Compare Nonprofit outcomes vs public school data.   
+*Outcome:* Informed stakeholders on key education disparities and provide recommendations for future.
 
 ---
 
@@ -92,8 +74,8 @@ Embarking on an innovation-focused journey, mastering new tools, solving applied
 
 Are you on a similar quest? Let’s team up, compare spell books, or defeat some data dragons together. Reach out via:
 
-📧 [Darylisha13w@gmail.com]  
-🌐 [https://www.linkedin.com/in/darylisha-williams/]  
+Email: Darylisha13w@gmail.com
+Linkedin: https://www.linkedin.com/in/darylisha-williams/
 
 ---
 
