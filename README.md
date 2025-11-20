@@ -57,7 +57,7 @@ Embarking on an innovation-focused journey, mastering new tools, solving applied
 
 ## Tech Stack
 
-| Skill 
+| Skills
 |-------
 | Python
 | SQL
