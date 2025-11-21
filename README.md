@@ -68,9 +68,9 @@ Embarking on an innovation-focused journey, mastering new tools, solving applied
 
 Exploring data, analytics, or tech adventures of your own? I’d love to connect!
 
-📧 Email: Darylisha13w@gmail.com
+📧 Darylisha13w@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/darylisha-williams/
+🔗 https://www.linkedin.com/in/darylisha-williams/
 ---
 
 ![Pokemon](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FscTh3MzAwbGJwejloaW94N3AwN2p6dGVsMGdpNXZ3ZGo1anZxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlZNzwl4x8DFQPsFuZ/giphy.gif)
