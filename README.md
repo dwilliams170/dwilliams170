@@ -70,8 +70,9 @@ Embarking on an innovation-focused journey, mastering new tools, solving applied
 Are you on a similar quest? Let’s team up, compare spell books, or defeat some data dragons together. Reach out via:
 
 Email: Darylisha13w@gmail.com
-Linkedin: https://www.linkedin.com/in/darylisha-williams/
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://dwilliams170.github.io/](https://dwilliams170.github.io/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/darylisha-williams/))
+[![Email](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)Darylisha13w@gmail.com)
 ---
 
 ![Pokemon](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FscTh3MzAwbGJwejloaW94N3AwN2p6dGVsMGdpNXZ3ZGo1anZxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlZNzwl4x8DFQPsFuZ/giphy.gif)
