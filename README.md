@@ -67,10 +67,13 @@ Embarking on an innovation-focused journey, mastering new tools, solving applied
 
 ## 🕹️ Join the Party
 
-Are you on a similar quest? Let’s team up, compare spell books, or defeat some data dragons together. Reach out via:
+Exploring data, analytics, or tech adventures of your own? I’d love to connect!
 
-Darylisha13w@gmail.com
-https://www.linkedin.com/in/darylisha-williams/
+📧 Email: Darylisha13w@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/darylisha-williams/
+
+🗂️ Portfolio: https://dwilliams170.github.io/
 ---
 
 ![Pokemon](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FscTh3MzAwbGJwejloaW94N3AwN2p6dGVsMGdpNXZ3ZGo1anZxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlZNzwl4x8DFQPsFuZ/giphy.gif)
